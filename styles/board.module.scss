@@ -1,0 +1,26 @@
+.mainContainer {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: 60px 1fr;
+    grid-template-areas:
+        "sidebar header"
+        "sidebar board";
+}
+
+.headerContainer {
+    grid-area: header;
+}
+
+.boardSideBarContainer {
+    grid-area: sidebar;
+}
+
+.boardContainer {
+    grid-area: board;
+}
+
+.noBoardsContainer {
+    grid-row-start: sidebar;
+    grid-row-end: board;
+    grid-column: board;
+}
