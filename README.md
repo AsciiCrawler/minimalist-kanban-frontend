@@ -16,8 +16,6 @@ Minimalist kanban webapp
 
 ## Links
 
-[![Static Badge](https://img.shields.io/badge/Live%20preview-white?style=for-the-badge&color=green)](https://minimalist-kanban.asciicrawler.com/)
-
 [![Static Badge](https://img.shields.io/badge/Frontend-white?style=for-the-badge&color=blue)](https://github.com/AsciiCrawler/minimalist-kanban-frontend)
 
 [![Static Badge](https://img.shields.io/badge/Backend-white?style=for-the-badge&color=red)](https://github.com/AsciiCrawler/minimalist-kanban-backend)
